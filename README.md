@@ -6,7 +6,7 @@
 
 ---
 
-## meus focos de trabalho/estudo
+## meus focos de trabalho/estudo:
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -17,7 +17,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
-**ferramentas que costumo utilizar**
+**ferramentas que costumo utilizar:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
