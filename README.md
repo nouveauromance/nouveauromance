@@ -1,6 +1,6 @@
 ## oiee, meu nome é natali, mas pode me chamar de nat!!
 
-🌱 atualmente sou estudante de desenvolvimento de softwares, estou procurando aprimorar minhas habilidades e conhecimento 
+🌱 atualmente sou estudante de desenvolvimento de software, estou procurando aprimorar minhas habilidades e conhecimento 
 
 🎓 pretendo me tornar desenvolvedora full stack 
 
