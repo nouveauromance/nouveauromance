@@ -29,7 +29,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 **ferramentas que costumo utilizar:**
 
