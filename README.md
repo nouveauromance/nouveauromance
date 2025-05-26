@@ -1,14 +1,14 @@
-## oiee, meu nome é natali, mas pode me chamar de nat!!
+## Oiee, meu nome é Natali, mas pode me chamar de Nat!!
 
-💻 atualmente sou estudante de desenvolvimento de software multiplataforma 
+💻 Atualmente sou estudante de desenvolvimento de software multiplataforma.
 
-🌱 estou procurando aprimorar minhas habilidades e conhecimentos
+🌱 Estou procurando aprimorar minhas habilidades e conhecimentos.
 
-🎓 pretendo me tornar desenvolvedora full stack 
+🎓 Pretendo me tornar desenvolvedora full stack.
 
 ---
 
-## meus conhecimentos:
+## Meus conhecimentos:
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -26,7 +26,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
-**meus focos de trabalho/estudos:**
+**Meus focos de trabalho/estudos:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=Thymeleaf)
@@ -38,7 +38,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-**ferramentas que costumo utilizar:**
+**Ferramentas que costumo utilizar:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -48,7 +48,7 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nouveauromance&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## onde me encontrar/contatar?
+## Onde me encontrar/contatar?
 
 <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=natalidau@gmail.com" alt="Gmail"/></a>
