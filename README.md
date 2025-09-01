@@ -24,7 +24,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 **Meus focos de trabalho/estudos:**
 
@@ -37,6 +39,7 @@
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
 **Ferramentas que costumo utilizar:**
 
