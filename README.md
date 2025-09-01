@@ -1,10 +1,10 @@
 ## Oiee, meu nome é Natali, mas pode me chamar de Nat!!
 
-💻 Atualmente sou estudante de desenvolvimento de software multiplataforma.
+💻 Atualmente sou estudante de Desenvolvimento de Software Multiplataforma, Fatec.
 
 🌱 Estou procurando aprimorar minhas habilidades e conhecimentos.
 
-🎓 Pretendo me tornar desenvolvedora full stack.
+🎓 Pretendo me tornar desenvolvedora full stack + UX/UI designer.
 
 ---
 
