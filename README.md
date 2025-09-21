@@ -33,11 +33,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=Thymeleaf)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=JSON)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=Mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
