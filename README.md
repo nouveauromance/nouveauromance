@@ -47,4 +47,4 @@ no Back-End e introduzindo à prática com projetos e atividades.
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/KRBPD6NBHQMPI1" alt="WhatsApp"/></a>
 
-## Obrigada pela atenção !!
+*Obrigada pela atenção !!*
