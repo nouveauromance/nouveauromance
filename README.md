@@ -38,7 +38,7 @@ no Back-End e introduzindo à prática com projetos e atividades.
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nouveauromance&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-# Vamos conversar ?? Me chama aqui: 
+## Vamos conversar ?? Me chama aqui: 
 
 <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=callingnat.dev@gmail.com" alt="Gmail"/></a>
