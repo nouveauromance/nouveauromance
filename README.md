@@ -36,8 +36,6 @@ no Back-End e introduzindo à prática com projetos e atividades.
 ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nouveauromance&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Vamos conversar ?? Me chama aqui: 
 
 <a href="#" title="Gmail">
