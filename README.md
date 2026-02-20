@@ -2,8 +2,8 @@
      
 ꨄ︎ . Sou programadora e estudante de Desenvolvimento de Software Multiplataforma pela Fatec.
 
-༘⋆ . Estou procurando aprimorar minhas habilidades e conhecimentos, com foco em início de carreira
-e crescimento, tanto profissional quanto pessoal.
+༘⋆ . Estou procurando aprimorar minhas habilidades e conhecimentos, com foco em aprendizado e 
+crescimento, tanto profissional quanto pessoal.
 
 ᝰ.ᐟ . Atualmente, estou focada na área de Design de Interfaces, Desenvolvimento Front-End, UX/UI Design,
 Design de Software, Motion Design e Design Gráfico Digital. Também estou aprimorando meus conhecimentos
