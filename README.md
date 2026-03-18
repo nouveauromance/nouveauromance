@@ -5,9 +5,7 @@
 ༘⋆ . Estou procurando aprimorar minhas habilidades e conhecimentos, com foco em aprendizado e 
 crescimento, tanto profissional quanto pessoal.
 
-ᝰ.ᐟ . Atualmente, estou focada na área de Design de Interfaces, Desenvolvimento Front-End, UX/UI Design,
-Design de Software, Motion Design e Design Gráfico Digital. Também estou aprimorando meus conhecimentos
-no Back-End e introduzindo à prática com projetos e atividades.
+ᝰ.ᐟ . Atualmente, estou focada na área de Machine Learning, estudando os conceitos principais e básicos da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter.
 
 ꩜ . Pretendo me tornar desenvolvedora Full-Stack + UX/UI Designer.
 
@@ -16,25 +14,17 @@ no Back-End e introduzindo à prática com projetos e atividades.
 **Meus focos de trabalho:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=Thymeleaf)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 
 **Ferramentas que costumo utilizar:**
 
-![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=007ACC)
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator&logoColor=007ACC)
-![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita&logoColor=007ACC)
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=007ACC)
-![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## Vamos conversar ?? Me chama aqui: 
 
