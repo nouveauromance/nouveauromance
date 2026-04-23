@@ -1,39 +1,95 @@
-# Oiee!! Meu nome é Natali, mas pode me chamar de Nat!!
-     
-ꨄ︎ . Sou programadora e estudante de Desenvolvimento de Software Multiplataforma pela Fatec.
+<div align="center">
+     <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindos+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+     </a>
+</div>
 
-༘⋆ . Estou procurando aprimorar minhas habilidades e conhecimentos, com foco em aprendizado e 
-crescimento, tanto profissional quanto pessoal.
+#
 
-ᝰ.ᐟ . Atualmente, estou focada na área de Machine Learning, estudando os conceitos principais e básicos da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter.
+Eu me chamo Natali, tenho 19 anos, sou estudante de Desenvolvimento de Software Multiplataforma. Atualmente, estou focada na área de Machine Learning, estudando os conceitos principais da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter.
 
-꩜ . Pretendo me tornar desenvolvedora Full-Stack + UX/UI Designer.
+#
 
---- 
+<img align="right" alt="" height="190px" border-radios="10px" src="./src/study.gif">
 
-**Meus focos de trabalho:**
+<h3 align="left">Vamos conversar?</h3>
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:callingnat.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/theycallmenat/)
 
-**Ferramentas que costumo utilizar:**
+<h3 align="left">Minhas ferramentas:</h3>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
-![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<img
+     align="left"
+     alt="Python"
+     title="Python"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+     />
+<img
+     align="left"
+     alt="React"
+     title="React"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+     />
+<img
+     align="left"
+     alt="Typescript"
+     title="Typescript"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+     />
+<img
+     align="left"
+     alt="CSS"
+     title="CSS"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+     />
+<img
+     align="left"
+     alt="Anaconda"
+     title="Anaconda"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+     />
+<img
+     align="left"
+     alt="Javascript"
+     title="Javascript"
+     width="30px"
+     style="padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+     />
+<br/>
+<br/>
 
-## Vamos conversar ?? Me chama aqui: 
+<h3 align="left">GitHub Stats</h3>
 
-<a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=callingnat.dev@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natali-mendon%C3%A7a-dau-a76680310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/KRBPD6NBHQMPI1" alt="WhatsApp"/></a>
+<p>
+     <img
+          align="left"
+          alt="GitHub Stats"
+          height="200"
+          style="padding-right: 10px;"
+          src="https://github-readme-stats.vercel.app/api?username=nouveauromance&show_icons=true&theme=tokyonight&locale=pt-br"
+          />
+     <img
+          align="left"
+          alt="GitHub Stats"
+          height="200"
+          src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=nouveauromance&theme=tokyonight&layout=compact&custom_title=Tecnologias_count=8"
+          />
+</p>
 
-*Obrigada pela atenção !!*
+<picture align="center">
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouveauromance/nouveauromance/output/github-contribution-grid-snake-dark.svg">
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouveauromance/nouveauromance/output/github-contribution-grid-snake-dark.svg">
+     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nouveauromance/nouveauromance/output/github-contribution-grid-snake.svg">
+</picture>
