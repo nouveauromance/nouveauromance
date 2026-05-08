@@ -6,7 +6,7 @@
 
 #
 
-Eu me chamo Natali, tenho 19 anos, sou estudante de Desenvolvimento de Software Multiplataforma. Atualmente, estou focada na área de Machine Learning, estudando os conceitos principais da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter.
+Eu me chamo Natali, tenho 19 anos, sou estudante de Desenvolvimento de Software Multiplataforma. Atualmente, estou focada na área de Machine Learning, estudando os conceitos principais da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter. Também estou desenvolvendo aplicações, utilizando React, Typescript e Java.
 
 #
 
