@@ -6,7 +6,7 @@
 
 #
 
-Eu me chamo Natali, tenho 20 anos, sou estudante de Desenvolvimento de Software Multiplataforma. Atualmente, estou focada na área de Análise de Dados com Machine Learning, estudando os conceitos principais da Ciência de Dados, Machine Learning e seus modelos, gráficos, python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter em projetos de análises e estudos de dados clínicos. Também estou desenvolvendo aplicações, utilizando React e Typescript.
+Eu me chamo Natali, tenho 20 anos, sou estudante de Desenvolvimento de Software Multiplataforma. Atualmente, estou focada na área de Análise de Dados com Machine Learning, estudando os conceitos principais da Ciência de Dados, Machine Learning e seus modelos, gráficos, Python e biblioteca Pandas, todos aplicados com Anaconda e Jupyter em projetos de análises e estudos de dados clínicos. Também estou desenvolvendo aplicações, utilizando React e Typescript.
 
 #
 
@@ -29,22 +29,6 @@ Eu me chamo Natali, tenho 20 anos, sou estudante de Desenvolvimento de Software 
      />
 <img
      align="left"
-     alt="Javascript"
-     title="Javascript"
-     width="30px"
-     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-     />
-<img
-     align="left"
-     alt="Java"
-     title="Java"
-     width="30px"
-     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-     />
-<img
-     align="left"
      alt="React"
      title="React"
      width="30px"
@@ -58,14 +42,6 @@ Eu me chamo Natali, tenho 20 anos, sou estudante de Desenvolvimento de Software 
      width="30px"
      style="padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-     />
-<img
-     align="left"
-     alt="CSS"
-     title="CSS"
-     width="30px"
-     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
      />
 <img
      align="left"
